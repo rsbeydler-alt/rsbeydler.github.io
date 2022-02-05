@@ -51,7 +51,7 @@ Similarly to how PD has diverse phenotypes, optimal neural decoding models were 
     Left: Microelectrode recording sites within the STN across all patients with PD who performed the task intraoperatively. Right: Experimental task recording spectrograms sorted by increasing motor error score (MES). From <a href="https://doi.org/10.1088/1741-2552/abaca3">Ahn et al, 2020</a>.
 </div>
 
-Although our method of patient-specific symptom decoding proved to be flexible, our task also provided the opportunity to define the neurophysiologic representations of individual motor symptoms such as tremor.
+Although our method of patient-specific symptom decoding was flexible to each patient's constellation of symptoms, our task also provided the opportunity to define the neurophysiologic representations of individual motor symptoms such as tremor.
 By combining STN microelectrode and electrocorticography (ECoG) recordings, we were able to elucidate that tremor emerges due to tremor-frequency (3-8 Hz) oscillations in the STN, but is sustained by cortico-cortical oscillations at higher frequencies (12-20 Hz).
 
 <div class="row justify-content-sm-center">
