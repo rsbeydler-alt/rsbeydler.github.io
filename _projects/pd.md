@@ -63,7 +63,7 @@ By combining STN microelectrode and electrocorticography (ECoG) recordings, we w
     </div>
 </div>
 <div class="caption">
-    Left: ECoG recording sites across all patients with PD who performed the task intraoperatively. Right: Synthetic model of subcortical-cortical interactions during tremor. From <a href="https://doi.org/10.1523/JNEUROSCI.0854-21.2021>Lauro et al, 2021</a>.
+    Left: ECoG recording sites across all patients with PD who performed the task intraoperatively. Right: Synthetic model of subcortical-cortical interactions during tremor. From <a href="https://doi.org/10.1523/JNEUROSCI.0854-21.2021">Lauro et al, 2021</a>.
 </div>
 
 Future work is investigating the neural dynamics of the interplay between different motor phenotypes in PD, and applying this knowledge to inform adaptive closed-loop deep brain stimulation protocols.
