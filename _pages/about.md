@@ -14,7 +14,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 ## About Me
 
-I am a seventh-year MD/PhD candidate with the Department of Neuroscience and Warren Alpert Medical School of Brown University.
+I am an eighth-year MD/PhD candidate with the Department of Neuroscience and Warren Alpert Medical School of Brown University.
 Before Brown, I was a postbaccalaureate IRTA research fellow in the [Human Motor Control Section](https://irp.nih.gov/pi/mark-hallett) at the National Institute of Neurological Disorders and Stroke.
 
 My research with [Dr. Wael Asaad](https://www.brown.edu/Research/asaad/) works to define the functional and anatomical circuitry of Parkinson's disease motor symptoms.
