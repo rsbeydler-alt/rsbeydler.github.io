@@ -53,4 +53,4 @@ We also investigate whether these same structures produce cognitive functions su
     Left: "Gridworld" task environment, where patients are instructed to navigate to a reward location.  Right: As patients progress in the task, "roadblocks" based on their previous performance are used to probe their knowledge of the entire map.
 </div>
 
-Future work will integrate surgery-related changes in learning parameters, clinical improvement, and diffusion-tensor-imaging to better understand the function and pathology present in these fronto-thalamic/striatal circuits.
+Ongoing work integrates surgery-related changes in learning parameters, clinical improvement, and diffusion-tensor-imaging to better understand the function and pathology present in these fronto-thalamic/striatal circuits.
