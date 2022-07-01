@@ -10,7 +10,7 @@ category: science
 Among other functions, the prefrontal cortex (PFC) is integral to learning and adapting to uncertain environments.
 To precisely map PFC neural activity to these cognitive functions, we use a combination of microelectrode recordings in non-human primates (NHPs) and behavioral assessment in patients with obsessive-compulsive disorder (OCD).
 
-When specifically analyzing microelectrode recordings in dorsolateral PFC in NHPs, several neurons were observed to maintain stable spiking activity across cue presentation, motor response, and reward feedback.
+When specifically analyzing microelectrode recordings in dorsolateral PFC in NHPs, several neurons were observed to maintain stable information-related spiking activity across cue presentation, motor response, and reward feedback.
 As this stability varied as a function of learning, we understood this phenomena to underlie credit assignment functionality in the PFC.
 
 <div class="row">
