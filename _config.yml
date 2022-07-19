@@ -203,7 +203,7 @@ jekyll-archives:
 
 scholar:
 
-  last_name: Lauro
+  last_name: [Lauro, Lauro*]
   first_name: [Peter, Peter M., Peter M, Peter M.*]
 
   style: apa
