@@ -12,13 +12,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 ## About Me
-<a rel="me" href="https://fediscience.org/@pmlauro">Mastodon</a>
-
 I am currently a research-track psychiatry resident at the University of Pennsylvania.
-I plan to continue investigating neuromodulation and neurosurgical intervention with patients with intractable psychiatric illness, while learning how these disorders impact learning and cognition.
+I plan to continue investigating neuromodulation and neurosurgical intervention for patients with intractable psychiatric illness, while learning how these disorders impact learning and cognition.
 
 At Brown my graduate research with [Dr. Wael Asaad](https://www.brown.edu/Research/asaad/) worked to define the functional and anatomical circuitry of Parkinson's disease motor symptoms.
 I also developed machine-learning approaches to optimize deep brain stimulation to selectively treat individual motor symptoms.
 To accomplish this I combined intraoperative behavioral tasks, intracranial neurophysiology, real-time closed-loop stimulation, and clinical neuroimaging.
 
-Before all this, I was a postbaccalaureate IRTA research fellow in the [Human Motor Control Section](https://irp.nih.gov/pi/mark-hallett) at the National Institute of Neurological Disorders and Stroke.
+Before all this, I was a postbaccalaureate IRTA research fellow in the [Human Motor Control Section](https://irp.nih.gov/catalyst/22/4/human-motor-control) at the National Institute of Neurological Disorders and Stroke.
