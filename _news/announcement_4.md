@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-02-14 07:59:00-0400
+date: 2022-11-16 07:59:00-0400
 inline: true
 ---
 
-New preprint on _bioRxiv_: ["Decoding Dynamically Shifting States of Parkinson's Disease: Tremor, Bradykinesia, and Effective Motor Control"](https://doi.org/10.1101/2022.02.12.480213)
+Presented "Aberrant model-based learning in Obsessive-Compulsive Disorder is normalized after laser capsulotomy" at _Society for Neuroscience_ 2022
