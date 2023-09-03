@@ -66,7 +66,7 @@ By combining STN microelectrode and electrocorticography (ECoG) recordings, we w
     Left: ECoG recording sites across all patients with PD who performed the task intraoperatively. Right: Synthetic model of subcortical-cortical interactions during tremor. From <a href="https://doi.org/10.1523/JNEUROSCI.0854-21.2021">Lauro et al, 2021</a>.
 </div>
 
-We then investigated how different motor phenotypes can individually be represented and decoded by our approach.
+We then investigated how these different motor phenotypes can individually be represented and decoded by our machine-learning approach.
 Not only were we able to identify distinct spectral signatures of individual Parkinsonian motor features, but we also demonstrated that optimal tremor and bradykinesia feature decoding arose from distinct subregions of the STN.
 
 <div class="row justify-content-sm-center">
@@ -78,7 +78,7 @@ Not only were we able to identify distinct spectral signatures of individual Par
     </div>
 </div>
 <div class="caption">
-    Left: Tremor vs. slowness decoding performance all STN recordings. Right: Neural features used for tremor vs. slowness decoding models. From <a href="https://doi.org/10.7554/eLife.84135">Lauro et al, 2023</a>.
+    Left: Tremor vs. slowness decoding performance across all STN recordings. Right: Neural features used for tremor vs. slowness decoding models. From <a href="https://doi.org/10.7554/eLife.84135">Lauro et al, 2023</a>.
 </div>
 
 
