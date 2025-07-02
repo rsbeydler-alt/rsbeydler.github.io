@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PGY2 Psychiatry Resident, <a href="https://www.med.upenn.edu/psychres/">University of Pennsylvania</a> <br>MD, PhD, <a href="https://medical.brown.edu/">Brown University</a>
+subtitle: PGY3 Psychiatry Resident, <a href="https://www.med.upenn.edu/psychres/">University of Pennsylvania</a> <br>MD, PhD, <a href="https://medical.brown.edu/">Brown University</a>
 profile:
   align: right
   image: prof_pic.jpg
@@ -13,7 +13,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 ## About Me
 I am currently a research-track psychiatry resident at the University of Pennsylvania.
-I plan to continue investigating neuromodulation and neurosurgical intervention for patients with intractable psychiatric illness, while learning how these disorders impact learning and cognition.
+With Drs. Katherine Scangos and Casey Halpern, I am investigating how OCD-related alterations in approach-avoidance behavior can be restored with interventions such as deep brain stimulation and focused ultrasound.
 
 At Brown my graduate research with [Dr. Wael Asaad](https://www.brown.edu/Research/asaad/) worked to define the functional and anatomical circuitry of Parkinson's disease motor symptoms.
 I also developed machine-learning approaches to optimize deep brain stimulation to selectively treat individual motor symptoms.
