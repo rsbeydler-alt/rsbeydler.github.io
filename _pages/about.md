@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PGY3 Psychiatry Resident, <a href="https://www.med.upenn.edu/psychres/">University of Pennsylvania</a> <br>MD, PhD, <a href="https://medical.brown.edu/">Brown University</a>
+subtitle: PGY3 Psychiatry Resident, <a href="https://www.med.upenn.edu/psychres/">University of Pennsylvania</a> <br>MD, PhD, <a href="https://md-phd.biomed.brown.edu/">Brown University</a>
 profile:
   align: right
   image: prof_pic.jpg
